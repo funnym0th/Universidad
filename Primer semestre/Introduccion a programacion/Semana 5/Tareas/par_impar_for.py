@@ -1,6 +1,9 @@
-conteo = 0
-for conteo in range(0, 1):
-    estado = int(input("quiere seguir: "))
-    if estado == 1:
-        conteo -= str(1)
-        for i in range
+a = True
+while a == True:
+    numero = int(input("ingrese un numero: "))
+    if numero % 2 == 0:
+        print("el numero es par")
+    else:
+        print("el numero es impar")
+    a = int(input("quiere continuar?\n 1 = seguir\n 0 = salir\n : "))
+
