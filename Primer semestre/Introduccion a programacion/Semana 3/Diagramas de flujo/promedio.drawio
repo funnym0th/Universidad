@@ -1,0 +1,52 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.1.1 Chrome/132.0.6834.210 Electron/34.3.2 Safari/537.36" version="26.1.1">
+  <diagram name="Page-1" id="apOVl8SDUlImBMhl18na">
+    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W3OkdE5znnH-dEH9_zLX-18" value="&lt;div&gt;Inicio&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="350" y="10" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W3OkdE5znnH-dEH9_zLX-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="W3OkdE5znnH-dEH9_zLX-18" target="W3OkdE5znnH-dEH9_zLX-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="170" as="sourcePoint" />
+            <mxPoint x="410" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W3OkdE5znnH-dEH9_zLX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="W3OkdE5znnH-dEH9_zLX-21" target="W3OkdE5znnH-dEH9_zLX-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W3OkdE5znnH-dEH9_zLX-21" value="Ingrese el primer numero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=none;strokeColor=default;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="320" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W3OkdE5znnH-dEH9_zLX-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="W3OkdE5znnH-dEH9_zLX-23" target="W3OkdE5znnH-dEH9_zLX-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W3OkdE5znnH-dEH9_zLX-23" value="Ingrese el segundo numero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=none;strokeColor=default;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="310" y="230" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W3OkdE5znnH-dEH9_zLX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="W3OkdE5znnH-dEH9_zLX-25" target="W3OkdE5znnH-dEH9_zLX-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W3OkdE5znnH-dEH9_zLX-25" value="promedio = (n1 + n2 + n3) / 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="320" y="450" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W3OkdE5znnH-dEH9_zLX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="W3OkdE5znnH-dEH9_zLX-27" target="W3OkdE5znnH-dEH9_zLX-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W3OkdE5znnH-dEH9_zLX-27" value="promedio" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="360" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W3OkdE5znnH-dEH9_zLX-28" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="360" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W3OkdE5znnH-dEH9_zLX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W3OkdE5znnH-dEH9_zLX-30" target="W3OkdE5znnH-dEH9_zLX-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W3OkdE5znnH-dEH9_zLX-30" value="Inserte el tercer numero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=none;strokeColor=default;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="320" y="340" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
