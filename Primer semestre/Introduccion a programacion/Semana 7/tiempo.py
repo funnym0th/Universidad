@@ -17,4 +17,4 @@ while i == 1:
     print(horas, "horas", minutos, "minutos y", segundos, "segundos")
 
     # Se toma el valor del ciclo por el usuario para saber si seguir calculando o no
-    i = int(input("Ingrese 1 para seguir calculando o 0 para salir"))
+    i = int(input("Ingrese 1 para seguir calculando o 0 para salir: "))
