@@ -1,7 +1,7 @@
 # Elegir cabaña y mostrar ocupacion
 # Reservar espacios o dias en la cabaña
 # Mostrar valor a pagar * dias 
-cabanas = [[1, 2, 3], [10000, 20000, 30000], [0, 0, 0], [["días disponibles cabaña 1"], ["días disponibles cabaña 2"], ["días disponibles cabaña 3"]]
+cabanas = [[1, 2, 3], [10000, 20000, 30000], [0, 0, 0], [["días disponibles cabaña 1"], ["días disponibles cabaña 2"], ["días disponibles cabaña 3"]]]
 print("Lista de cabañas: ")
 for i in cabanas[0]:
     print(f"Cabaña {i}: Para {cabanas[0][i - 1]} persona(s), valor ${cabanas[1][i - 1]}")
